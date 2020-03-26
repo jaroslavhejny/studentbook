@@ -24,7 +24,7 @@ Dôraz kladieme na technické prevedenie a splnenie zadania.
 Responzivita nie je povinná, ale je to plus, rovnako ako dobré UX.
 
 
-##Spuštění aplikace
+## Spuštění aplikace
 
 * Po naklonování ve složce spustit npm install (nutný nodejs >6.0.0 a npm >3.0.0);
 * Po úspěšné instalaci pak spustit npm run dev (může vyžadovat admin práva)

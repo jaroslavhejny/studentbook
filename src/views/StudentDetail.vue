@@ -3,7 +3,7 @@
     <h2>Student detail: {{ studentName }}</h2>
     <div class="jh-flex">
       <b-form-group label="Search:" label-for="search" label-cols-sm="4" label-cols-lg="3">
-        <b-input v-model="search" id="search" :name="type"></b-input>
+        <b-input v-model="search" id="search" :name="'students'"></b-input>
       </b-form-group>
     </div>
     <div class="jh-flex">
